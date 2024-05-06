@@ -16,3 +16,5 @@ session = cluster.connect()
 #
 # # Close the connection
 # cluster.shutdown()
+
+print('testing hi')
